@@ -4,9 +4,7 @@
 Use the timeit and cProfile libraries to find bad code.
 """
 __author__ = """
-Kevin Clark,
-source of help
-'https://www.youtube.com/watch?time_continue=377&v=8qEnExGLZfY&feature=emb_logo'
+Robert Havelaar
 """
 
 from functools import wraps
