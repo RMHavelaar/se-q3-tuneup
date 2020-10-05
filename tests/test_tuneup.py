@@ -3,7 +3,7 @@ Unit test cases for tuneup.py
 Students should not modify this file.
 """
 
-__author__ = "madarp"
+__author__ = "Robert Havelaar"
 
 import sys
 import unittest
